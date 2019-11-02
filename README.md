@@ -7,6 +7,7 @@ Research members:
 2. Kobe Alcober
 3. Kristine Sabar
 4. Kriztoper Urmeneta
+
 Our research is about using Singular Value Decomposition(SVD) in compressing images where we proposed a new k-computation formula and a new qualitative metric in determining the effectiveness of compression using the "Image Compression Turing Test". Kindly read on the full paper in **Image Processing.pdf** for more info.
 
 
